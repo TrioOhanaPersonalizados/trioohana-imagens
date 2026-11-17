@@ -1,0 +1,11 @@
+{"descricao": "Boneco de neve: reenvia as 6 fotos com texto alternativo, revincula as cores e apaga as antigas", "itens": [
+ {"op": "replace_images", "ref": "boneco", "product_id": 381584589, "formato_alt": "pt_BR",
+  "principal": "natal/caneca-natal-boneco-de-neve-let-it-snow-laranja.jpg",
+  "images": [
+   {"file": "natal/caneca-natal-boneco-de-neve-let-it-snow-laranja.jpg", "variant_value": "Alça e Interior Laranja", "alt": "Caneca de Natal Boneco de Neve Let it Snow com alça e interior laranja, dois lados e arte completa"},
+   {"file": "natal/caneca-natal-boneco-de-neve-let-it-snow-branca.jpg", "variant_value": "Branca", "alt": "Caneca de Natal Boneco de Neve Let it Snow toda branca, dois lados e arte completa"},
+   {"file": "natal/caneca-natal-boneco-de-neve-let-it-snow-verde.jpg", "variant_value": "Alça e Interior Verde", "alt": "Caneca de Natal Boneco de Neve Let it Snow com alça e interior verdes, dois lados e arte completa"},
+   {"file": "natal/caneca-natal-boneco-de-neve-let-it-snow-vermelha.jpg", "variant_value": "Alça e Interior Vermelho", "alt": "Caneca de Natal Boneco de Neve Let it Snow com alça e interior vermelhos, dois lados e arte completa"},
+   {"file": "natal/caneca-natal-boneco-de-neve-let-it-snow-azul-claro.jpg", "variant_value": "Alça e Interior Azul Claro", "alt": "Caneca de Natal Boneco de Neve Let it Snow com alça e interior azul claro, dois lados e arte completa"},
+   {"file": "natal/caneca-natal-boneco-de-neve-let-it-snow-preta.jpg", "variant_value": "Alça e Interior Preto", "alt": "Caneca de Natal Boneco de Neve Let it Snow com alça e interior pretos, dois lados e arte completa"}]},
+ {"op": "check", "ref": "conferencia", "product_id": 381584589}]}

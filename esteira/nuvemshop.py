@@ -74,13 +74,37 @@ def op_link_variants(it):
     return {"ok": True, "variacoes_vinculadas": n}
 
 
-def upload_image(pid, file, alt, position):
+def upload_image(pid, file, alt, position, fmt=None):
     raw = (ROOT / file).read_bytes()
     body = {"attachment": base64.b64encode(raw).decode(), "filename": pathlib.Path(file).name, "position": position}
-    img = api("POST", f"/products/{pid}/images", body)
     if alt:
-        api("PUT", f"/products/{pid}/images/{img['id']}", alt_body(alt, ALT_FMT))
+        body.update(alt_body(alt, fmt or ALT_FMT))   # o texto alternativo só grava no envio da foto
+    img = api("POST", f"/products/{pid}/images", body)
     return img["id"]
+
+
+def op_replace_images(it):
+    """Substitui todas as fotos de um produto: envia as novas (com texto alternativo),
+    vincula cada variação à sua foto e apaga as antigas."""
+    pid = it["product_id"]
+    antes = api("GET", f"/products/{pid}")
+    old_ids = [i["id"] for i in antes["images"]]
+    imgs = sorted(it["images"], key=lambda x: x["file"] != it.get("principal", it["images"][0]["file"]))
+    ids = {}
+    for pos, im in enumerate(imgs, 1):
+        ids[im["file"]] = upload_image(pid, im["file"], im.get("alt"), len(old_ids) + pos, it.get("formato_alt"))
+    by_value = {im["variant_value"]: ids[im["file"]] for im in imgs if im.get("variant_value")}
+    linked = 0
+    for v in antes["variants"]:
+        val = (v.get("values") or [{}])[0].get("pt")
+        if val in by_value:
+            api("PUT", f"/products/{pid}/variants/{v['id']}", {"image_id": by_value[val]}); linked += 1
+    for oid in old_ids:
+        api("DELETE", f"/products/{pid}/images/{oid}")
+    # reordena: principal primeiro
+    for pos, im in enumerate(imgs, 1):
+        api("PUT", f"/products/{pid}/images/{ids[im['file']]}", {"position": pos})
+    return {"ok": True, "novas": len(ids), "apagadas": len(old_ids), "variacoes_vinculadas": linked}
 
 
 def op_create_product(it):
@@ -103,7 +127,7 @@ def op_create_product(it):
             "variacoes": len(check["variants"]), "variacoes_vinculadas": linked, "published": check["published"]}
 
 
-OPS = {"check": op_check, "set_alts": op_set_alts, "link_variants": op_link_variants, "create_product": op_create_product}
+OPS = {"replace_images": op_replace_images, "check": op_check, "set_alts": op_set_alts, "link_variants": op_link_variants, "create_product": op_create_product}
 
 
 def main(job_path):
