@@ -21,14 +21,14 @@ TOKEN = os.environ.get("NUVEMSHOP_TOKEN", "").strip()
 STORE = os.environ.get("NUVEMSHOP_STORE_ID", "6361192").strip()
 UA = os.environ.get("NUVEMSHOP_USER_AGENT", "Trio Ohana Esteira de Catalogo (app 52655)")
 BASE = f"https://api.nuvemshop.com.br/v1/{STORE}"
-ALT_FMT = os.environ.get("ALT_FMT", "pt_BR")
+ALT_FMT = os.environ.get("ALT_FMT", "seo")
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
 
-def api(method, path, body=None, tries=4):
+def api(method, path, body=None, tries=4, base=None):
     data = None if body is None else json.dumps(body).encode()
     for i in range(tries):
-        req = urllib.request.Request(BASE + path, data=data, method=method, headers={
+        req = urllib.request.Request((base or BASE) + path, data=data, method=method, headers={
             "Authentication": f"bearer {TOKEN}",
             "User-Agent": UA,
             "Content-Type": "application/json",
@@ -52,7 +52,8 @@ def op_check(it):
             "alts": {str(i["id"]): (i.get("alt") or {}).get("pt") if isinstance(i.get("alt"), dict) else i.get("alt") for i in p["images"]}}
 
 
-def alt_body(alt, fmt="pt_BR"):
+def alt_body(alt, fmt="seo"):
+    if fmt == "seo": return {"seo": {"pt": {"alt": alt}}}
     if fmt == "pt": return {"alt": {"pt": alt}}
     if fmt == "list": return {"alt": [{"pt": alt}]}
     if fmt == "str": return {"alt": alt}
@@ -131,10 +132,21 @@ def op_probe_alt(it):
     """Envia uma foto temporária em cada formato de alt, lê o que gravou e apaga."""
     pid = it["product_id"]; res = {}
     for fmt in it["formatos"]:
-        iid = upload_image(pid, it["file"], "teste " + fmt, 99, fmt)
-        got = [i for i in api("GET", f"/products/{pid}")["images"] if i["id"] == iid][0].get("alt")
-        res[fmt] = got
-        api("DELETE", f"/products/{pid}/images/{iid}")
+        base = None
+        if fmt.endswith("@2025-03"):
+            fmt0 = fmt.split("@")[0]; base = f"https://api.nuvemshop.com.br/2025-03/{STORE}"
+        else:
+            fmt0 = fmt
+        try:
+            raw = (ROOT / it["file"]).read_bytes()
+            body = {"attachment": base64.b64encode(raw).decode(), "filename": "teste-alt.jpg", "position": 99}
+            body.update(alt_body("teste " + fmt, fmt0))
+            iid = api("POST", f"/products/{pid}/images", body, base=base)["id"]
+            got = [i for i in api("GET", f"/products/{pid}")["images"] if i["id"] == iid][0].get("alt")
+            res[fmt] = got
+            api("DELETE", f"/products/{pid}/images/{iid}")
+        except Exception as e:
+            res[fmt] = "ERRO: " + str(e)[:200]
     return {"ok": True, "resultado": res}
 
 
