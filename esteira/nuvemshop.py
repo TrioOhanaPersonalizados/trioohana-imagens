@@ -127,7 +127,18 @@ def op_create_product(it):
             "variacoes": len(check["variants"]), "variacoes_vinculadas": linked, "published": check["published"]}
 
 
-OPS = {"replace_images": op_replace_images, "check": op_check, "set_alts": op_set_alts, "link_variants": op_link_variants, "create_product": op_create_product}
+def op_probe_alt(it):
+    """Envia uma foto temporária em cada formato de alt, lê o que gravou e apaga."""
+    pid = it["product_id"]; res = {}
+    for fmt in it["formatos"]:
+        iid = upload_image(pid, it["file"], "teste " + fmt, 99, fmt)
+        got = [i for i in api("GET", f"/products/{pid}")["images"] if i["id"] == iid][0].get("alt")
+        res[fmt] = got
+        api("DELETE", f"/products/{pid}/images/{iid}")
+    return {"ok": True, "resultado": res}
+
+
+OPS = {"probe_alt": op_probe_alt, "replace_images": op_replace_images, "check": op_check, "set_alts": op_set_alts, "link_variants": op_link_variants, "create_product": op_create_product}
 
 
 def main(job_path):

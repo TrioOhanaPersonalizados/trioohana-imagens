@@ -1,0 +1,2 @@
+{"descricao": "Descobre o formato de texto alternativo aceito no envio da foto (fotos temporárias, apagadas em seguida)", "itens": [
+ {"op": "probe_alt", "ref": "formatos", "product_id": 381584589, "file": "natal/caneca-natal-boneco-de-neve-let-it-snow-branca.jpg", "formatos": ["pt", "list", "str"]}]}
