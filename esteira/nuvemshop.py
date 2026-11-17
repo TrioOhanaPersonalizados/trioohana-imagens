@@ -47,7 +47,8 @@ def api(method, path, body=None, tries=4):
 def op_check(it):
     p = api("GET", f"/products/{it['product_id']}")
     return {"ok": True, "produto": p["name"].get("pt"), "variacoes": len(p["variants"]), "imagens": len(p["images"]),
-            "vinculos": {str(v["id"]): v.get("image_id") for v in p["variants"]}}
+            "vinculos": {str(v["id"]): v.get("image_id") for v in p["variants"]},
+            "alts": {str(i["id"]): (i.get("alt") or {}).get("pt") if isinstance(i.get("alt"), dict) else i.get("alt") for i in p["images"]}}
 
 
 def op_set_alts(it):
