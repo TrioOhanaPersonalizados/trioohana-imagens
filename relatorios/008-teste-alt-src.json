@@ -1,0 +1,12 @@
+[
+  {
+    "op": "probe_alt",
+    "ref": "src",
+    "ok": true,
+    "resultado": {
+      "pt": [],
+      "pt_BR": [],
+      "seo": []
+    }
+  }
+]
