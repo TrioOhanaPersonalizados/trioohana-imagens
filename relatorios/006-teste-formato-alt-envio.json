@@ -1,0 +1,12 @@
+[
+  {
+    "op": "probe_alt",
+    "ref": "formatos",
+    "ok": true,
+    "resultado": {
+      "pt": [],
+      "list": [],
+      "str": []
+    }
+  }
+]
