@@ -1,0 +1,11 @@
+[
+  {
+    "op": "probe_alt",
+    "ref": "seo",
+    "ok": true,
+    "resultado": {
+      "seo": [],
+      "seo@2025-03": []
+    }
+  }
+]
