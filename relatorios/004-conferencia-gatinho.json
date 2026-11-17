@@ -1,0 +1,30 @@
+[
+  {
+    "op": "check",
+    "ref": "gatinho",
+    "ok": true,
+    "produto": "Caneca de Natal Gatinho Noel 3D 325ml",
+    "variacoes": 1,
+    "imagens": 1,
+    "vinculos": {
+      "1640766069": null
+    },
+    "alts": {
+      "1321516588": "Caneca de Natal Gatinho Noel 3D com alça e interior vermelhos, mostrando os dois lados e a arte completa"
+    }
+  },
+  {
+    "op": "check",
+    "ref": "renas",
+    "ok": true,
+    "produto": "Caneca de Natal Renas em Aquarela 325ml",
+    "variacoes": 1,
+    "imagens": 1,
+    "vinculos": {
+      "1640778810": null
+    },
+    "alts": {
+      "1321520383": "Caneca de Natal Renas em Aquarela com alça e interior verdes, mostrando os dois lados e a arte completa"
+    }
+  }
+]
