@@ -1,0 +1,40 @@
+[
+  {
+    "op": "check",
+    "ref": "boneco-antes",
+    "ok": true,
+    "produto": "Caneca de Natal Boneco de Neve Let it Snow 325ml",
+    "variacoes": 6,
+    "imagens": 6,
+    "vinculos": {
+      "1640782799": 1321521957,
+      "1640782801": 1321521962,
+      "1640782804": 1321521950,
+      "1640782806": 1321521970,
+      "1640782808": 1321521977,
+      "1640782824": 1321521985
+    }
+  },
+  {
+    "op": "set_alts",
+    "ref": "boneco-alts",
+    "ok": true,
+    "imagens_atualizadas": 6
+  },
+  {
+    "op": "check",
+    "ref": "boneco-depois",
+    "ok": true,
+    "produto": "Caneca de Natal Boneco de Neve Let it Snow 325ml",
+    "variacoes": 6,
+    "imagens": 6,
+    "vinculos": {
+      "1640782799": 1321521957,
+      "1640782801": 1321521962,
+      "1640782804": 1321521950,
+      "1640782806": 1321521970,
+      "1640782808": 1321521977,
+      "1640782824": 1321521985
+    }
+  }
+]
