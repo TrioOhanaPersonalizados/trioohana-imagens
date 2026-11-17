@@ -1,0 +1,4 @@
+{"descricao": "Testa texto alternativo com a foto enviada por link (src)", "itens": [
+ {"op": "probe_alt", "ref": "src", "product_id": 381584589,
+  "src": "https://raw.githubusercontent.com/TrioOhanaPersonalizados/trioohana-imagens/main/natal/caneca-natal-boneco-de-neve-let-it-snow-branca.jpg",
+  "formatos": ["pt", "pt_BR", "seo"]}]}

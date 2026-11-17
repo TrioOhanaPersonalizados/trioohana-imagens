@@ -138,8 +138,11 @@ def op_probe_alt(it):
         else:
             fmt0 = fmt
         try:
-            raw = (ROOT / it["file"]).read_bytes()
-            body = {"attachment": base64.b64encode(raw).decode(), "filename": "teste-alt.jpg", "position": 99}
+            if it.get("src"):
+                body = {"src": it["src"], "position": 99}
+            else:
+                raw = (ROOT / it["file"]).read_bytes()
+                body = {"attachment": base64.b64encode(raw).decode(), "filename": "teste-alt.jpg", "position": 99}
             body.update(alt_body("teste " + fmt, fmt0))
             iid = api("POST", f"/products/{pid}/images", body, base=base)["id"]
             got = [i for i in api("GET", f"/products/{pid}")["images"] if i["id"] == iid][0].get("alt")
