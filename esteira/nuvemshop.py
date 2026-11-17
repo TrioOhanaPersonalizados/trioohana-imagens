@@ -21,6 +21,7 @@ TOKEN = os.environ.get("NUVEMSHOP_TOKEN", "").strip()
 STORE = os.environ.get("NUVEMSHOP_STORE_ID", "6361192").strip()
 UA = os.environ.get("NUVEMSHOP_USER_AGENT", "Trio Ohana Esteira de Catalogo (app 52655)")
 BASE = f"https://api.nuvemshop.com.br/v1/{STORE}"
+ALT_FMT = os.environ.get("ALT_FMT", "pt_BR")
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
 
@@ -51,10 +52,18 @@ def op_check(it):
             "alts": {str(i["id"]): (i.get("alt") or {}).get("pt") if isinstance(i.get("alt"), dict) else i.get("alt") for i in p["images"]}}
 
 
+def alt_body(alt, fmt="pt_BR"):
+    if fmt == "pt": return {"alt": {"pt": alt}}
+    if fmt == "list": return {"alt": [{"pt": alt}]}
+    if fmt == "str": return {"alt": alt}
+    return {"alt": {"pt_BR": alt}}
+
+
 def op_set_alts(it):
     pid = it["product_id"]; n = 0
+    fmts = it.get("formatos", {})
     for img_id, alt in it["alts"].items():
-        api("PUT", f"/products/{pid}/images/{img_id}", {"alt": {"pt": alt}}); n += 1
+        api("PUT", f"/products/{pid}/images/{img_id}", alt_body(alt, fmts.get(img_id, it.get("formato", "pt_BR")))); n += 1
     return {"ok": True, "imagens_atualizadas": n}
 
 
@@ -70,7 +79,7 @@ def upload_image(pid, file, alt, position):
     body = {"attachment": base64.b64encode(raw).decode(), "filename": pathlib.Path(file).name, "position": position}
     img = api("POST", f"/products/{pid}/images", body)
     if alt:
-        api("PUT", f"/products/{pid}/images/{img['id']}", {"alt": {"pt": alt}})
+        api("PUT", f"/products/{pid}/images/{img['id']}", alt_body(alt, ALT_FMT))
     return img["id"]
 
 

@@ -1,0 +1,8 @@
+{"descricao": "Teste de formato do texto alternativo (pt_BR, lista, string)", "itens": [
+ {"op": "set_alts", "ref": "formatos", "product_id": 381584589,
+  "formatos": {"1321521950": "pt_BR", "1321521957": "list", "1321521962": "str"},
+  "alts": {
+   "1321521950": "Caneca de Natal Boneco de Neve Let it Snow com alça e interior laranja, dois lados e arte completa",
+   "1321521957": "Caneca de Natal Boneco de Neve Let it Snow toda branca, dois lados e arte completa",
+   "1321521962": "Caneca de Natal Boneco de Neve Let it Snow com alça e interior verdes, dois lados e arte completa"}},
+ {"op": "check", "ref": "conferencia", "product_id": 381584589}]}
