@@ -1,0 +1,250 @@
+[
+  {
+    "op": "update",
+    "ref": "381970617 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-galinha-queria-te-dar-razao-mas-ai-nos-dois-estariamos-errados-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381970617 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-galinha-queria-te-dar-razao-mas-ai-nos-dois-estariamos-errados-branca-sem-embalagem",
+        "image_id": 1322928998
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381971103 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gata-minha-cara-nao-e-de-deboche-ela-nasceu-assim-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381971103 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gata-minha-cara-nao-e-de-deboche-ela-nasceu-assim-branca-sem-embalagem",
+        "image_id": 1322930024
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381971501 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-guaxinim-se-eu-disser-que-vou-nao-pergunte-quando-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381971501 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-guaxinim-se-eu-disser-que-vou-nao-pergunte-quando-branca-sem-embalagem",
+        "image_id": 1322931106
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381972005 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gansa-nao-sou-dramatica-so-tenho-talento-para-o-caos-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381972005 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gansa-nao-sou-dramatica-so-tenho-talento-para-o-caos-branca-sem-embalagem",
+        "image_id": 1322931977
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381972463 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-capivara-eu-ate-tenho-paciencia-mas-nao-trouxe-hoje-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381972463 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-capivara-eu-ate-tenho-paciencia-mas-nao-trouxe-hoje-branca-sem-embalagem",
+        "image_id": 1322933000
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381973041 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-vaquinha-estou-ouvindo-tudo-so-nao-estou-concordando-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381973041 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-vaquinha-estou-ouvindo-tudo-so-nao-estou-concordando-branca-sem-embalagem",
+        "image_id": 1322934016
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381973880 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-raposa-nao-guardo-rancor-guardo-provas-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381973880 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-raposa-nao-guardo-rancor-guardo-provas-branca-sem-embalagem",
+        "image_id": 1322935445
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381974410 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-lhama-eu-nao-evito-pessoas-eu-preservo-minha-paz-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381974410 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-lhama-eu-nao-evito-pessoas-eu-preservo-minha-paz-branca-sem-embalagem",
+        "image_id": 1322936670
+      }
+    }
+  }
+]
