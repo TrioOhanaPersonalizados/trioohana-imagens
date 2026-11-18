@@ -1,0 +1,138 @@
+[
+  {
+    "op": "update",
+    "ref": "381843747 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-que-o-natal-renove-a-sua-fe-e-a-sua-esperanca-com-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381843747 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c1",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-que-o-natal-renove-a-sua-fe-e-a-sua-esperanca-com-foto-branca-sem-embalagem",
+      "image_id": 1322495223
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381857812 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-feliz-natal-com-papai-noel-e-xadrez-vermelho-com-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381857812 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c2",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-feliz-natal-com-papai-noel-e-xadrez-vermelho-com-foto-branca-sem-embalagem",
+      "image_id": 1322495437
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381857818 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-um-natal-com-saude-amor-e-alegria-com-papai-noel-e-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381857818 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c4",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-um-natal-com-saude-amor-e-alegria-com-papai-noel-e-foto-branca-sem-embalagem",
+      "image_id": 1322495675
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381857821 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-feliz-natal-ho-ho-ho-com-papai-noel-e-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381857821 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c5",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-feliz-natal-ho-ho-ho-com-papai-noel-e-foto-branca-sem-embalagem",
+      "image_id": 1322495954
+    }
+  }
+]
