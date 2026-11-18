@@ -1,0 +1,240 @@
+[
+  {
+    "op": "update",
+    "ref": "381857824 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-um-natal-com-saude-amor-e-alegria-com-ramos-de-pinheiro-e-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381857824 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c6",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-um-natal-com-saude-amor-e-alegria-com-ramos-de-pinheiro-e-foto-branca-sem-embalagem",
+      "image_id": 1322499112
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381857827 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-feliz-fim-de-ano-com-muito-amor-com-2-fotos-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381857827 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c7",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-feliz-fim-de-ano-com-muito-amor-com-2-fotos-branca-sem-embalagem",
+      "image_id": 1322499362
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381857832 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-uma-equipe-incrivel-merece-um-fim-de-ano-incrivel-com-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381857832 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c8",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-uma-equipe-incrivel-merece-um-fim-de-ano-incrivel-com-foto-branca-sem-embalagem",
+      "image_id": 1322499600
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381857839 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-feliz-natal-e-um-ano-novo-cheio-de-conquistas-com-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381857839 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c9",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-feliz-natal-e-um-ano-novo-cheio-de-conquistas-com-foto-branca-sem-embalagem",
+      "image_id": 1322499865
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381857842 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-feliz-natal-com-ramos-de-pinheiro-e-fita-vermelha-com-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381857842 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c10",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-feliz-natal-com-ramos-de-pinheiro-e-fita-vermelha-com-foto-branca-sem-embalagem",
+      "image_id": 1322500071
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381857846 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-feliz-natal-com-bolas-de-natal-vermelhas-e-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381857846 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c11",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-feliz-natal-com-bolas-de-natal-vermelhas-e-foto-branca-sem-embalagem",
+      "image_id": 1322500331
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381857852 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-voce-e-um-presente-de-deus-na-minha-vida-com-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381857852 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c12",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-voce-e-um-presente-de-deus-na-minha-vida-com-foto-branca-sem-embalagem",
+      "image_id": 1322500521
+    }
+  }
+]
