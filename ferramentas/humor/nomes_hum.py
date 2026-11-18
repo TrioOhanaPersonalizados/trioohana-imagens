@@ -1,0 +1,23 @@
+# key: (nome, cor principal, grupo, bicho/tema, frase lado 1, frase lado 2)
+N = {
+'a02':("Caneca Galinha Queria Te Dar Razão, Mas Aí Nós Dois Estaríamos Errados 325ml","Verde Escuro","a","uma galinha de óculos escuros, lenço verde e botas","Queria te dar razão…","…mas aí nós dois estaríamos errados."),
+'a03':("Caneca Gata Minha Cara Não é de Deboche, Ela Nasceu Assim 325ml","Rosa","a","uma gata cinza de óculos rosa, colar de pérolas e bolsinha","Minha cara não é de deboche…","…ela nasceu assim."),
+'a04':("Caneca Guaxinim Se Eu Disser que Vou, Não Pergunte Quando 325ml","Amarelo","a","um guaxinim de óculos amarelos, lenço de bolinhas e galochas","Se eu disser que vou…","…não pergunte quando."),
+'a05':("Caneca Gansa Não Sou Dramática, Só Tenho Talento para o Caos 325ml","Vermelho","a","uma gansa de boina rosa, lenço florido e botas vermelhas","Não sou dramática…","…só tenho talento para o caos."),
+'a06':("Caneca Capivara Eu Até Tenho Paciência, Mas Não Trouxe Hoje 325ml","Lilás","a","uma capivara de óculos, lenço lilás e botas","Eu até tenho paciência…","…mas não trouxe hoje."),
+'a07':("Caneca Vaquinha Estou Ouvindo Tudo, Só Não Estou Concordando 325ml","Rosa","a","uma vaquinha de óculos de coração, lenço amarelo e botas rosa","Estou ouvindo tudo…","…só não estou concordando."),
+'a08':("Caneca Raposa Não Guardo Rancor, Guardo Provas 325ml","Verde Claro","a","uma raposa de óculos, lenço verde-água e bolsa a tiracolo","Não guardo rancor…","…guardo provas."),
+'a09':("Caneca Lhama Eu Não Evito Pessoas, Eu Preservo Minha Paz 325ml","Lilás","a","uma lhama de boina lilás, lenço florido e bolsinha","Eu não evito pessoas…","…eu preservo minha paz."),
+'a10':("Caneca Pomba Não Estou Atrasada, Estou Criando Expectativa 325ml","Vermelho","a","uma pomba de boina vermelha, colar de pérolas e relógio","Não estou atrasada…","…estou criando expectativa."),
+'p01':("Caneca Professora Vai Cair na Prova 325ml","Lilás","p","","Vai cair na prova?",""),
+'p02':("Caneca Professora Vale Nota, a Frase que Move a Educação 325ml","Rosa","p","","“Vale nota?” — a frase que move a educação.",""),
+'p03':("Caneca Professora, Era pra Copiar 325ml","Verde Claro","p","","“Professora, era pra copiar?”",""),
+'p04':("Caneca Professora Lágrimas dos Meus Alunos, Mentirinha, é Café 325ml","Rosa","p","","Lágrimas dos meus alunos. Mentirinha, é café!",""),
+'p10':("Caneca Professora Avaliação Surpresa, Surpresa é Eu Ainda Ter Energia 325ml","Lilás","p","","Avaliação surpresa? Surpresa é eu ainda ter energia.",""),
+'p11':("Caneca Professora Café Primeiro, Educação Depois 325ml","Azul Claro","p","","Café primeiro. Educação depois.",""),
+'p12':("Caneca Professora Minha Matéria Favorita é o Intervalo 325ml","Azul Claro","p","","Minha matéria favorita é o intervalo.",""),
+'p13':("Caneca Professora Minha Paciência Tem Chamada e Hoje Faltou 325ml","Rosa","p","","Minha paciência tem chamada. E hoje faltou.",""),
+'p15':("Caneca Hoje Ninguém Testa a Professora, Amém 325ml","Amarelo","p","","Hoje ninguém testa a professora. Amém.",""),
+'p16':("Caneca Respira, Você é Professora, Você Não Pode Fugir 325ml","Lilás","p","","Respira, você é professora. Você não pode fugir.",""),
+'p17':("Caneca Professora Meu Talento é Repetir Sem Parecer que Já Repeti 14 Vezes 325ml","Azul Médio","p","","Meu talento é repetir sem parecer que já repeti 14 vezes.",""),
+}
