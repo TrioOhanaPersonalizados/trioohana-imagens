@@ -1,0 +1,33 @@
+[
+  {
+    "op": "update",
+    "ref": "382035518 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-galinha-hoje-to-igual-wi-fi-oscilando-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "382035518 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-galinha-hoje-to-igual-wi-fi-oscilando-branca-sem-embalagem",
+        "image_id": 1323171578
+      }
+    }
+  }
+]
