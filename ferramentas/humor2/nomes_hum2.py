@@ -1,0 +1,23 @@
+# key: (nome, cor principal, bicho, descrição, frase)
+N = {
+'d07':("Caneca Galinha Café Meu Combustível Oficial 325ml","Laranja","galinha","uma galinha sonolenta segurando uma caneca fumegante","Café: meu combustível oficial!"),
+'d08':("Caneca Galinha Hoje Tô Igual Wi-Fi Oscilando 325ml","Azul Claro","galinha","uma galinha de olhar cansado com o celular na mão","Hoje tô igual Wi-Fi: oscilando."),
+'d09':("Caneca Galinha Não Sou Perdida, Estou Explorando Novos Caminhos 325ml","Verde Claro","galinha","uma galinha de chapéu de palha levando a trouxinha nas costas","Não sou perdida, estou explorando novos caminhos."),
+'d11':("Caneca Galinha Dinheiro Não Traz Felicidade, Mas Compra Café 325ml","Amarelo","galinha","uma galinha de óculos escuros com uma caneca de café","Dinheiro não traz felicidade, mas compra café. E já ajuda!"),
+'d12':("Caneca Sapinha Eu Tô Bem, Só Não Enche o Saco 325ml","Rosa","sapinha","uma sapinha de lenço rosa e cara de poucos amigos, com café na mão","Eu tô bem… só não enche o saco."),
+'d22':("Caneca Bicho-Preguiça Não é Preguiça, é Modo de Sobrevivência 325ml","Rosa","bicho-preguiça","um bicho-preguiça abraçado na caneca de café","Não é preguiça, é modo de sobrevivência."),
+'d15':("Caneca Capivara Sobrevivo por Café e Fofoca 325ml","Azul Claro","capivara","uma capivara de óculos de coração tomando café","Sobrevivo por café e fofoca."),
+'d16':("Caneca Corgi Plano do Dia Acordar, Sobreviver e Ser Feliz 325ml","Laranja","corgi","um corgi sorridente com uma caneca de café e uma lista de tarefas","Plano do dia: acordar ✓, sobreviver ✓, ser feliz (se der tempo)."),
+'d17':("Caneca Gato Dieta Só Amanhã Talvez 325ml","Laranja","gato","um gato laranja gordinho comendo uma rosquinha","Dieta? Só amanhã… talvez."),
+'d18':("Caneca Sapo Não Preciso de Terapia, Preciso de Café e Silêncio 325ml","Verde Claro","sapo","um sapinho fofo com uma caneca de café","Não preciso de terapia, preciso de café e silêncio."),
+'d20':("Caneca Lhama Mente Tranquila, Vida Leve e Café Quente 325ml","Rosa","lhama","uma lhama de olhos fechados com uma caneca rosa","Mente tranquila, vida leve e café quente."),
+'d21':("Caneca Tartaruga Devagar e Sempre Que a Ansiedade Queime 325ml","Rosa","tartaruga","uma tartaruga de casco rosa","Devagar e sempre… que a ansiedade queime."),
+'d23':("Caneca Dinossauro Café Me Deixa Assim, Impossível de Lidar 325ml","Verde Escuro","dinossauro","um dinossauro de óculos escuros com uma caneca de café","Café me deixa assim: impossível de lidar, mas necessário."),
+'d24':("Caneca Pinguim Café Primeiro, Problemas Depois 325ml","Preta","pinguim","um pinguim de olhos fechados abraçado na caneca","Café primeiro, problemas depois (se sobrar tempo)."),
+'d25':("Caneca Panda Meu Plano para Hoje é Não Fazer Planos 325ml","Rosa","panda","um panda deitado mexendo no celular","Meu plano para hoje: não fazer planos."),
+'d26':("Caneca Porquinho Dieta Amanhã, Hoje Tem Cookie 325ml","Rosa","porquinho","um porquinho rosa comendo um cookie","Dieta amanhã. Hoje tem cookie!"),
+'d27':("Caneca Gatinha Linda, Cheirosa e com Sono 325ml","Rosa","gatinha","uma gatinha de toalha na cabeça com uma caneca rosa","Linda, cheirosa e com sono."),
+'d28':("Caneca Shiba Não Sou Preguiçoso, Estou em Modo Economia de Energia 325ml","Laranja","shiba","um shiba inu sorridente","Não sou preguiçoso, estou em modo economia de energia."),
+'d29':("Caneca Gato Rindo de Mim Mesmo para Não Chorar 325ml","Amarelo","gato","um gatinho rolando de rir","Rindo de mim mesmo… para não chorar."),
+'d30':("Caneca Galinha Nem Perfeita, Nem Arrumada, Mas Feliz e Cafeinada 325ml","Lilás","galinha","uma galinha de óculos de gatinho, bolsinha e botas rosa, com café na mão","Nem perfeita, nem arrumada, mas feliz e cafeinada!"),
+}
