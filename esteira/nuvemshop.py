@@ -151,6 +151,18 @@ def op_update(it):
     return {"ok": True, **res}
 
 
+def op_padrao_variantes(it):
+    """Aplica os dados fixos de caneca a todas as variações (custo, peso, medidas, MPN, Google Shopping)."""
+    pid = it["product_id"]; p = api("GET", f"/products/{pid}"); n = 0
+    for v in p["variants"]:
+        cor = (v.get("values") or [{}])[0].get("pt")
+        body = {"cost": "13.00" if cor == "Branca" else "15.00", "weight": "0.200", "width": "10.00", "height": "10.00",
+                "depth": "10.00", "mpn": "3000", "age_group": "adult", "gender": "unisex"}
+        api("PUT", f"/products/{pid}/variants/{v['id']}", body); n += 1
+    v = api("GET", f"/products/{pid}/variants/{p['variants'][0]['id']}")
+    return {"ok": True, "variacoes": n, "exemplo": {k: v.get(k) for k in ("cost", "weight", "width", "mpn", "age_group", "gender", "sku", "image_id")}}
+
+
 def op_probe_alt(it):
     """Envia uma foto temporária em cada formato de alt, lê o que gravou e apaga."""
     pid = it["product_id"]; res = {}
@@ -176,7 +188,7 @@ def op_probe_alt(it):
     return {"ok": True, "resultado": res}
 
 
-OPS = {"dump": op_dump, "update": op_update, "probe_alt": op_probe_alt, "replace_images": op_replace_images, "check": op_check, "set_alts": op_set_alts, "link_variants": op_link_variants, "create_product": op_create_product}
+OPS = {"padrao_variantes": op_padrao_variantes, "dump": op_dump, "update": op_update, "probe_alt": op_probe_alt, "replace_images": op_replace_images, "check": op_check, "set_alts": op_set_alts, "link_variants": op_link_variants, "create_product": op_create_product}
 
 
 def main(job_path):
