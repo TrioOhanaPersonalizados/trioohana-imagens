@@ -1,0 +1,546 @@
+[
+  {
+    "op": "update",
+    "ref": "381880592 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-abc-meu-pequeno-grande-orgulho-com-foto-e-nome-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381880592 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "a16",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-abc-meu-pequeno-grande-orgulho-com-foto-e-nome-branca-sem-embalagem",
+      "image_id": 1322625664
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381880717 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-abc-minha-pequena-meu-grande-orgulho-com-foto-e-nome-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381880717 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "a17",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-abc-minha-pequena-meu-grande-orgulho-com-foto-e-nome-branca-sem-embalagem",
+      "image_id": 1322626806
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381880909 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-abc-uma-pequena-formanda-com-sonhos-gigantes-com-foto-e-nome-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381880909 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "a18",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-abc-uma-pequena-formanda-com-sonhos-gigantes-com-foto-e-nome-branca-sem-embalagem",
+      "image_id": 1322628057
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381881109 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-abc-do-menino-com-trenzinho-e-dinossauro-com-nome-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381881109 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "b01",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-abc-do-menino-com-trenzinho-e-dinossauro-com-nome-branca-sem-embalagem",
+      "image_id": 1322629448
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381881249 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-abc-com-tigre-leao-e-lapisinhos-com-nome-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381881249 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "b02",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-abc-com-tigre-leao-e-lapisinhos-com-nome-branca-sem-embalagem",
+      "image_id": 1322630853
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381881382 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-do-abc-quadriculado-verde-com-ursinho-e-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381881382 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "b03",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-do-abc-quadriculado-verde-com-ursinho-e-foto-branca-sem-embalagem",
+      "image_id": 1322632308
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381881466 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-abc-com-bandeirinhas-e-maozinhas-com-nome-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381881466 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "b04",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-abc-com-bandeirinhas-e-maozinhas-com-nome-branca-sem-embalagem",
+      "image_id": 1322633770
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381881625 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-abc-caderno-pautado-com-ursinho-e-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381881625 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "b05",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-abc-caderno-pautado-com-ursinho-e-foto-branca-sem-embalagem",
+      "image_id": 1322635269
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381881719 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-abc-menina-rabiscos-e-capelos-rosa-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381881719 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "b06",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-abc-menina-rabiscos-e-capelos-rosa-branca-sem-embalagem",
+      "image_id": 1322636670
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381881850 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-abc-arco-iris-e-bandeirinhas-com-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381881850 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "b07",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-abc-arco-iris-e-bandeirinhas-com-foto-branca-sem-embalagem",
+      "image_id": 1322638250
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381881956 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-do-abc-rosa-com-ursinhas-e-capelos-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381881956 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "b08",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-do-abc-rosa-com-ursinhas-e-capelos-branca-sem-embalagem",
+      "image_id": 1322639714
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381882071 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-abc-caderno-rosa-com-ursinha-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381882071 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "b09",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-abc-caderno-rosa-com-ursinha-branca-sem-embalagem",
+      "image_id": 1322641150
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381882143 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-do-abc-com-solzinhos-e-livros-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381882143 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "b10",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-do-abc-com-solzinhos-e-livros-branca-sem-embalagem",
+      "image_id": 1322642676
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381882201 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-minha-primeira-formatura-abc-com-foto-e-nome-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381882201 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c01",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-minha-primeira-formatura-abc-com-foto-e-nome-branca-sem-embalagem",
+      "image_id": 1322644017
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381882254 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-lembranca-da-minha-formatura-abc-com-foto-e-nome-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381882254 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c03",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-lembranca-da-minha-formatura-abc-com-foto-e-nome-branca-sem-embalagem",
+      "image_id": 1322645455
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381882294 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-formatura-abc-com-2-fotos-e-nome-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381882294 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "c04",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-formatura-abc-com-2-fotos-e-nome-branca-sem-embalagem",
+      "image_id": 1322646901
+    }
+  }
+]
