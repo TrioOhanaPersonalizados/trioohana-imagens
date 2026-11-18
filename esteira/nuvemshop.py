@@ -15,6 +15,7 @@ Operações suportadas (campo "op" de cada item):
                         "principal": "natal/x.jpg"}
 Cada execução grava um relatório em relatorios/<job>.json (sem dados sensíveis).
 """
+from concurrent.futures import ThreadPoolExecutor
 import base64, json, os, sys, time, pathlib, urllib.request, urllib.error
 
 TOKEN = os.environ.get("NUVEMSHOP_TOKEN", "").strip()
@@ -95,17 +96,28 @@ def op_replace_images(it):
     for pos, im in enumerate(imgs, 1):
         ids[im["file"]] = upload_image(pid, im["file"], im.get("alt"), len(old_ids) + pos, it.get("formato_alt"))
     by_value = {im["variant_value"]: ids[im["file"]] for im in imgs if im.get("variant_value")}
-    linked = 0
+    # vínculo foto-variação (e, com "padrao": true, os dados fixos de caneca) numa só chamada por variação, 4 em paralelo
+    tarefas = []
     for v in antes["variants"]:
         val = (v.get("values") or [{}])[0].get("pt")
-        if val in by_value:
-            api("PUT", f"/products/{pid}/variants/{v['id']}", {"image_id": by_value[val]}); linked += 1
+        body = {}
+        if val in by_value: body["image_id"] = by_value[val]
+        if it.get("padrao"): body.update(padrao_body(val))
+        if body: tarefas.append((v["id"], body))
+    with ThreadPoolExecutor(4) as ex:
+        list(ex.map(lambda t: api("PUT", f"/products/{pid}/variants/{t[0]}", t[1]), tarefas))
+    linked = sum(1 for _, b in tarefas if "image_id" in b)
     for oid in old_ids:
         api("DELETE", f"/products/{pid}/images/{oid}")
-    # reordena: principal primeiro
-    for pos, im in enumerate(imgs, 1):
-        api("PUT", f"/products/{pid}/images/{ids[im['file']]}", {"position": pos})
-    return {"ok": True, "novas": len(ids), "apagadas": len(old_ids), "variacoes_vinculadas": linked}
+    # reordena: principal primeiro (desnecessário quando o produto não tinha fotos: as novas já entram na ordem)
+    if old_ids:
+        for pos, im in enumerate(imgs, 1):
+            api("PUT", f"/products/{pid}/images/{ids[im['file']]}", {"position": pos})
+    res = {"ok": True, "novas": len(ids), "apagadas": len(old_ids), "variacoes_vinculadas": linked}
+    if it.get("padrao"):
+        v = api("GET", f"/products/{pid}/variants/{antes['variants'][0]['id']}")
+        res["padrao"] = {"variacoes": len(tarefas), "exemplo": {k: v.get(k) for k in ("cost", "weight", "width", "mpn", "age_group", "gender", "sku", "image_id")}}
+    return res
 
 
 def op_create_product(it):
@@ -149,6 +161,11 @@ def op_update(it):
     if it.get("echo_variant"):
         res["variante"] = api("GET", f"/products/{pid}/variants/{it['echo_variant']}")
     return {"ok": True, **res}
+
+
+def padrao_body(cor):
+    return {"cost": "13.00" if cor == "Branca" else "15.00", "weight": "0.200", "width": "10.00", "height": "10.00",
+            "depth": "10.00", "mpn": "3000", "age_group": "adult", "gender": "unisex"}
 
 
 def op_padrao_variantes(it):
