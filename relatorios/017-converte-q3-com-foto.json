@@ -1,0 +1,20 @@
+[
+  {
+    "op": "update",
+    "ref": "381843155 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-feliz-natal-querida-amiga-com-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381843155 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  }
+]
