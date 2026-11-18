@@ -1,0 +1,478 @@
+[
+  {
+    "op": "update",
+    "ref": "381943344 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-pastor-alemao-eu-vigio-a-casa-e-cada-movimento-seu-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381943344 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_01",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-pastor-alemao-eu-vigio-a-casa-e-cada-movimento-seu-branca-sem-embalagem",
+      "image_id": 1322839545
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381943441 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-poodle-nao-sou-metido-voce-que-nao-acompanha-o-padrao-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381943441 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_02",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-poodle-nao-sou-metido-voce-que-nao-acompanha-o-padrao-branca-sem-embalagem",
+      "image_id": 1322840799
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381943543 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-dalmata-minhas-manchas-sao-naturais-e-a-sua-desculpa-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381943543 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_03",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-dalmata-minhas-manchas-sao-naturais-e-a-sua-desculpa-branca-sem-embalagem",
+      "image_id": 1322842081
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381943658 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-pit-bull-cara-de-bravo-coracao-de-chiclete-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381943658 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_04",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-pit-bull-cara-de-bravo-coracao-de-chiclete-branca-sem-embalagem",
+      "image_id": 1322843404
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381943784 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-buldogue-frances-ronco-eu-chamo-de-trilha-sonora-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381943784 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_05",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-buldogue-frances-ronco-eu-chamo-de-trilha-sonora-branca-sem-embalagem",
+      "image_id": 1322844739
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381943887 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-border-collie-voce-disse-passear-ja-fiz-o-planejamento-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381943887 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_06",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-border-collie-voce-disse-passear-ja-fiz-o-planejamento-branca-sem-embalagem",
+      "image_id": 1322846071
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381943960 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-shiba-inu-nao-sou-teimoso-estou-em-reuniao-comigo-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381943960 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_07",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-shiba-inu-nao-sou-teimoso-estou-em-reuniao-comigo-branca-sem-embalagem",
+      "image_id": 1322847519
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381944057 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-dachshund-meu-tamanho-e-pequeno-minha-opiniao-nao-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381944057 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_08",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-dachshund-meu-tamanho-e-pequeno-minha-opiniao-nao-branca-sem-embalagem",
+      "image_id": 1322848945
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381944149 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-golden-retriever-amo-todo-mundo-inclusive-quem-nao-pediu-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381944149 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_09",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-golden-retriever-amo-todo-mundo-inclusive-quem-nao-pediu-branca-sem-embalagem",
+      "image_id": 1322850443
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381944239 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-jack-russell-nao-sou-agitado-so-tenho-37-ideias-por-minuto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381944239 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_10",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-jack-russell-nao-sou-agitado-so-tenho-37-ideias-por-minuto-branca-sem-embalagem",
+      "image_id": 1322852113
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381944337 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-maltes-nao-sou-mimado-so-tenho-exigencias-a-altura-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381944337 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_11",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-maltes-nao-sou-mimado-so-tenho-exigencias-a-altura-branca-sem-embalagem",
+      "image_id": 1322853620
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381944422 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-lhasa-apso-minha-cara-e-de-calma-meu-julgamento-e-silencioso-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381944422 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_12",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-lhasa-apso-minha-cara-e-de-calma-meu-julgamento-e-silencioso-branca-sem-embalagem",
+      "image_id": 1322855057
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381944493 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-boxer-eu-pulo-de-alegria-e-voce-chama-de-excesso-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381944493 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_13",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-boxer-eu-pulo-de-alegria-e-voce-chama-de-excesso-branca-sem-embalagem",
+      "image_id": 1322856665
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381944579 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-shih-tzu-eu-nao-ignoro-voce-estou-preservando-minha-energia-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381944579 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p9_14",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-shih-tzu-eu-nao-ignoro-voce-estou-preservando-minha-energia-branca-sem-embalagem",
+      "image_id": 1322858113
+    }
+  }
+]
