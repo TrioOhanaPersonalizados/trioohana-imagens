@@ -1,0 +1,33 @@
+[
+  {
+    "op": "update",
+    "ref": "382032108 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-galinha-cafe-meu-combustivel-oficial-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "382032108 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-galinha-cafe-meu-combustivel-oficial-branca-sem-embalagem",
+        "image_id": 1323162469
+      }
+    }
+  }
+]
