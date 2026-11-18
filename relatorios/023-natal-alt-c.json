@@ -1,0 +1,206 @@
+[
+  {
+    "op": "update",
+    "ref": "381867012 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-rena-se-o-natal-te-trouxer-canecas-agradeca-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867012 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p2_05",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-rena-se-o-natal-te-trouxer-canecas-agradeca-branca-sem-embalagem",
+      "image_id": 1322546672
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867023 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-papai-noel-azul-o-natal-aquece-os-melhores-sentimentos-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867023 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p2_06",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-papai-noel-azul-o-natal-aquece-os-melhores-sentimentos-branca-sem-embalagem",
+      "image_id": 1322546934
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867039 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-bonecos-de-neve-a-magia-e-estarmos-juntos-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867039 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p2_07",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-bonecos-de-neve-a-magia-e-estarmos-juntos-branca-sem-embalagem",
+      "image_id": 1322547176
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867053 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-sao-jose-que-neste-natal-a-gente-acolha-jesus-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867053 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p2_08",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-sao-jose-que-neste-natal-a-gente-acolha-jesus-branca-sem-embalagem",
+      "image_id": 1322547445
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867068 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-ursinho-se-carinho-virasse-presente-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867068 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p2_09",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-ursinho-se-carinho-virasse-presente-branca-sem-embalagem",
+      "image_id": 1322547762
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867081 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-manjedoura-e-cruz-esse-amor-nos-salvou-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867081 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p2_10",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-manjedoura-e-cruz-esse-amor-nos-salvou-branca-sem-embalagem",
+      "image_id": 1322548045
+    }
+  }
+]
