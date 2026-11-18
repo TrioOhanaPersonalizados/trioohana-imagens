@@ -1,0 +1,601 @@
+[
+  {
+    "op": "update",
+    "ref": "381944663 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-cocker-spaniel-orelha-grande-paciencia-pequena-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381944663 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-cocker-spaniel-orelha-grande-paciencia-pequena-branca-sem-embalagem",
+        "image_id": 1322862002
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381944760 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-rottweiler-eu-faco-a-seguranca-o-charme-e-bonus-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381944760 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-rottweiler-eu-faco-a-seguranca-o-charme-e-bonus-branca-sem-embalagem",
+        "image_id": 1322862787
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381945129 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-pug-respirar-fundo-eu-ja-nasci-fazendo-isso-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381945129 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-pug-respirar-fundo-eu-ja-nasci-fazendo-isso-branca-sem-embalagem",
+        "image_id": 1322863416
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381945350 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-yorkshire-pequeno-so-na-foto-de-grupo-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381945350 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-yorkshire-pequeno-so-na-foto-de-grupo-branca-sem-embalagem",
+        "image_id": 1322864363
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381945459 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-vira-lata-sem-pedigree-com-personalidade-pra-uma-dinastia-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381945459 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-vira-lata-sem-pedigree-com-personalidade-pra-uma-dinastia-branca-sem-embalagem",
+        "image_id": 1322865218
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381947361 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-controlado-por-um-animal-de-estimacao-rottweiler-em-aquarela-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381947361 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-controlado-por-um-animal-de-estimacao-rottweiler-em-aquarela-branca-sem-embalagem",
+        "image_id": 1322866126
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381947544 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gato-neon-tigrado-arco-iris-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381947544 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gato-neon-tigrado-arco-iris-branca-sem-embalagem",
+        "image_id": 1322866982
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381947703 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gato-persa-neon-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381947703 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gato-persa-neon-branca-sem-embalagem",
+        "image_id": 1322867693
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381947774 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gato-siames-neon-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381947774 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gato-siames-neon-branca-sem-embalagem",
+        "image_id": 1322868430
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381947846 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gato-laranja-neon-de-pelo-longo-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381947846 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gato-laranja-neon-de-pelo-longo-branca-sem-embalagem",
+        "image_id": 1322869159
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381947949 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gato-branco-neon-de-pelo-longo-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381947949 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gato-branco-neon-de-pelo-longo-branca-sem-embalagem",
+        "image_id": 1322870122
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381948128 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gato-sphynx-neon-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381948128 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gato-sphynx-neon-branca-sem-embalagem",
+        "image_id": 1322870906
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381948278 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gato-neon-verde-e-roxo-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381948278 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gato-neon-verde-e-roxo-branca-sem-embalagem",
+        "image_id": 1322871764
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381948476 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gato-neon-rajado-colorido-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381948476 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gato-neon-rajado-colorido-branca-sem-embalagem",
+        "image_id": 1322872570
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381948620 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gato-bengal-neon-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381948620 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gato-bengal-neon-branca-sem-embalagem",
+        "image_id": 1322873200
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381948940 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-golden-retriever-neon-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381948940 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-golden-retriever-neon-branca-sem-embalagem",
+        "image_id": 1322873994
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381949030 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-nao-se-apaixone-esse-gato-ja-tem-dona-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381949030 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-nao-se-apaixone-esse-gato-ja-tem-dona-branca-sem-embalagem",
+        "image_id": 1322874966
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381949118 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gato-preto-nao-da-azar-da-amor-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381949118 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gato-preto-nao-da-azar-da-amor-branca-sem-embalagem",
+        "image_id": 1322875752
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381949195 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-quem-tem-gato-nunca-esta-so-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381949195 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-quem-tem-gato-nunca-esta-so-branca-sem-embalagem",
+        "image_id": 1322876441
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381944866 duplicado oculto",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-pug-respirar-fundo-eu-ja-nasci-fazendo-isso-325ml-duplicado-d94r6"
+    },
+    "published": false,
+    "variacoes_atualizadas": 0
+  }
+]
