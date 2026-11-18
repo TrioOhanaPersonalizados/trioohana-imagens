@@ -1,0 +1,10 @@
+N={1:("Caneca de Natal O Verdadeiro Natal é Sobre Jesus 325ml","Azul Médio"),
+2:("Caneca de Natal Casal de Biscoitos A Decoração Mais Perfeita é o Amor 325ml","Rosa"),
+3:("Caneca de Natal Papai Noel Paz, Amor e Novos Começos 325ml","Vermelho"),
+4:("Caneca de Natal Presépio Que Jesus Encontre em Nossa Família um Lar 325ml","Amarelo"),
+5:("Caneca de Natal Rena Se o Natal Te Trouxer Canecas, Agradeça 325ml","Vermelho"),
+6:("Caneca de Natal Papai Noel Azul O Natal Aquece os Melhores Sentimentos 325ml","Azul Claro"),
+7:("Caneca de Natal Bonecos de Neve A Magia é Estarmos Juntos 325ml","Lilás"),
+8:("Caneca de Natal São José Que Neste Natal a Gente Acolha Jesus 325ml","Verde Escuro"),
+9:("Caneca de Natal Ursinho Se Carinho Virasse Presente 325ml","Verde Claro"),
+10:("Caneca de Natal Manjedoura e Cruz Esse Amor nos Salvou 325ml","Marrom")}

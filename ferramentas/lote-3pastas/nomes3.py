@@ -1,0 +1,10 @@
+N={1:("Caneca de Natal Papai Noel de Férias na Boia de Flamingo 325ml","Azul Claro"),
+2:("Caneca de Natal Papai Noel no Unicórnio Brilho, Amor e Paz 325ml","Lilás"),
+3:("Caneca de Natal Papai Noel Apaixonado Doce como o Nosso Amor 325ml","Rosa"),
+4:("Caneca de Natal Papai Noel de Moto Passando pra Desejar 325ml","Vermelho"),
+5:("Caneca de Natal Pet Natal é Melhor com Pelo, Patinhas e Amor 325ml","Marrom"),
+6:("Caneca de Natal Papai Noel Roqueiro Rock and Roll 325ml","Preta"),
+7:("Caneca de Natal Jesus e Papai Noel Onde Há Amor é Sempre Natal 325ml","Amarelo"),
+8:("Caneca de Natal Papai Noel de Skate Ho Ho Ho 325ml","Verde Claro"),
+9:("Caneca de Natal Papai Noel Dab Viva o Presente 325ml","Laranja"),
+10:("Caneca de Natal Turma do Papai Noel Você é Especial 325ml","Verde Escuro")}
