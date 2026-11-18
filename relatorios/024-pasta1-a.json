@@ -1,0 +1,784 @@
+[
+  {
+    "op": "update",
+    "ref": "381867300 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-arvore-de-folhagens-feliz-natal-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867300 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_01",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-arvore-de-folhagens-feliz-natal-branca-sem-embalagem",
+      "image_id": 1322550721
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867311 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-transformar-momentos-em-memorias-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867311 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_02",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-transformar-momentos-em-memorias-branca-sem-embalagem",
+      "image_id": 1322551113
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867317 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-ho-ho-ho-rosa-e-vermelho-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867317 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_03",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-ho-ho-ho-rosa-e-vermelho-branca-sem-embalagem",
+      "image_id": 1322551463
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867327 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-magia-de-novos-comecos-com-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867327 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_04",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-magia-de-novos-comecos-com-foto-branca-sem-embalagem",
+      "image_id": 1322551826
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867334 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-cheio-de-amor-e-luz-com-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867334 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_06",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-cheio-de-amor-e-luz-com-foto-branca-sem-embalagem",
+      "image_id": 1322552153
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867340 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-cruz-magia-que-encanta-amor-que-transforma-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867340 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_07",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-cruz-magia-que-encanta-amor-que-transforma-branca-sem-embalagem",
+      "image_id": 1322552491
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867353 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-rena-fofa-com-xadrez-bege-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867353 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_08",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-rena-fofa-com-xadrez-bege-branca-sem-embalagem",
+      "image_id": 1322552839
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867362 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-listras-verdes-onde-ha-amor-o-natal-acontece-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867362 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_09",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-listras-verdes-onde-ha-amor-o-natal-acontece-branca-sem-embalagem",
+      "image_id": 1322553141
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867364 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-que-o-amor-seja-o-melhor-presente-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867364 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_10",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-que-o-amor-seja-o-melhor-presente-branca-sem-embalagem",
+      "image_id": 1322553554
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867370 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-listras-vermelhas-e-casinha-com-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867370 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_11",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-listras-vermelhas-e-casinha-com-foto-branca-sem-embalagem",
+      "image_id": 1322553949
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867376 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-xadrez-amor-esperanca-cafe-e-fe-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867376 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_12",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-xadrez-amor-esperanca-cafe-e-fe-branca-sem-embalagem",
+      "image_id": 1322554463
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867383 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-um-natal-para-celebrar-a-vida-com-foto-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867383 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_13",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-um-natal-para-celebrar-a-vida-com-foto-branca-sem-embalagem",
+      "image_id": 1322554935
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867391 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-presepio-jesus-o-verdadeiro-sentido-do-natal-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867391 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_14",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-presepio-jesus-o-verdadeiro-sentido-do-natal-branca-sem-embalagem",
+      "image_id": 1322555438
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867397 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-kombi-paz-familia-e-amor-com-nome-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867397 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_15",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-kombi-paz-familia-e-amor-com-nome-branca-sem-embalagem",
+      "image_id": 1322555956
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867408 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-carrinho-com-pinheiro-e-bico-de-papagaio-com-nome-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867408 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_16",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-carrinho-com-pinheiro-e-bico-de-papagaio-com-nome-branca-sem-embalagem",
+      "image_id": 1322556484
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867416 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-carrinho-com-pinheiro-e-lampiao-com-nome-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867416 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_18",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-carrinho-com-pinheiro-e-lampiao-com-nome-branca-sem-embalagem",
+      "image_id": 1322557132
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867423 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-corca-um-natal-cheio-de-luz-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867423 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_17",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-corca-um-natal-cheio-de-luz-branca-sem-embalagem",
+      "image_id": 1322557751
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867430 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-boneco-de-neve-cafe-pra-descongelar-a-paciencia-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867430 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_21",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-boneco-de-neve-cafe-pra-descongelar-a-paciencia-branca-sem-embalagem",
+      "image_id": 1322558346
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867435 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-biscoito-to-so-o-farelo-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867435 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_22",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-biscoito-to-so-o-farelo-branca-sem-embalagem",
+      "image_id": 1322558892
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867443 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-papai-noel-ho-ho-ho-hoje-nao-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867443 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_23",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-papai-noel-ho-ho-ho-hoje-nao-branca-sem-embalagem",
+      "image_id": 1322559473
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867454 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-papai-noel-menos-ho-ho-ho-e-mais-cafe-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867454 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_24",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-papai-noel-menos-ho-ho-ho-e-mais-cafe-branca-sem-embalagem",
+      "image_id": 1322560064
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867462 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-rena-so-levanto-voo-depois-do-cafe-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867462 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_25",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-rena-so-levanto-voo-depois-do-cafe-branca-sem-embalagem",
+      "image_id": 1322560721
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381867470 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-de-natal-arvore-piscando-so-por-consideracao-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381867470 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56
+  },
+  {
+    "op": "padrao_variantes",
+    "ref": "p1_26",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-de-natal-arvore-piscando-so-por-consideracao-branca-sem-embalagem",
+      "image_id": 1322561206
+    }
+  }
+]
