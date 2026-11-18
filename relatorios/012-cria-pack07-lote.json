@@ -1,0 +1,101 @@
+[
+  {
+    "op": "create_product",
+    "ref": "a3 caneca-feliz-natal-com-papai-noel-e-xadrez-vermelho",
+    "ok": true,
+    "product_id": 381823618,
+    "handle": "caneca-feliz-natal-com-papai-noel-e-xadrez-vermelho-325ml",
+    "imagens": 19,
+    "variacoes": 56,
+    "variacoes_vinculadas": 56,
+    "published": false
+  },
+  {
+    "op": "create_product",
+    "ref": "a5 caneca-um-natal-com-saude-amor-e-alegria-com-papai-noel-e-xadrez",
+    "ok": true,
+    "product_id": 381823838,
+    "handle": "caneca-um-natal-com-saude-amor-e-alegria-com-papai-noel-e-xadrez-325ml",
+    "imagens": 19,
+    "variacoes": 56,
+    "variacoes_vinculadas": 56,
+    "published": false
+  },
+  {
+    "op": "create_product",
+    "ref": "a6 caneca-feliz-natal-ho-ho-ho-com-papai-noel-e-arvore-enfeitada",
+    "ok": true,
+    "product_id": 381824057,
+    "handle": "caneca-feliz-natal-ho-ho-ho-com-papai-noel-e-arvore-enfeitada-325ml",
+    "imagens": 19,
+    "variacoes": 56,
+    "variacoes_vinculadas": 56,
+    "published": false
+  },
+  {
+    "op": "create_product",
+    "ref": "a7 caneca-um-natal-com-saude-amor-e-alegria-com-ramos-de-pinheiro",
+    "ok": true,
+    "product_id": 381824243,
+    "handle": "caneca-um-natal-com-saude-amor-e-alegria-com-ramos-de-pinheiro-325ml",
+    "imagens": 19,
+    "variacoes": 56,
+    "variacoes_vinculadas": 56,
+    "published": false
+  },
+  {
+    "op": "create_product",
+    "ref": "a8 caneca-uma-equipe-incrivel-merece-um-fim-de-ano-incrivel-com-guirlanda-de-natal",
+    "ok": true,
+    "product_id": 381824467,
+    "handle": "caneca-uma-equipe-incrivel-merece-um-fim-de-ano-incrivel-com-guirlanda-de-natal-325ml",
+    "imagens": 19,
+    "variacoes": 56,
+    "variacoes_vinculadas": 56,
+    "published": false
+  },
+  {
+    "op": "create_product",
+    "ref": "a9 caneca-feliz-fim-de-ano-com-muito-amor-e-folhagens-natalinas",
+    "ok": true,
+    "product_id": 381824706,
+    "handle": "caneca-feliz-fim-de-ano-com-muito-amor-e-folhagens-natalinas-325ml",
+    "imagens": 19,
+    "variacoes": 56,
+    "variacoes_vinculadas": 56,
+    "published": false
+  },
+  {
+    "op": "create_product",
+    "ref": "a10 caneca-feliz-natal-e-um-ano-novo-cheio-de-conquistas-com-pinheirinhos",
+    "ok": true,
+    "product_id": 381824959,
+    "handle": "caneca-feliz-natal-e-um-ano-novo-cheio-de-conquistas-com-pinheirinhos-325ml",
+    "imagens": 19,
+    "variacoes": 56,
+    "variacoes_vinculadas": 56,
+    "published": false
+  },
+  {
+    "op": "create_product",
+    "ref": "a11 caneca-feliz-natal-com-ramos-de-pinheiro-e-fita-vermelha",
+    "ok": true,
+    "product_id": 381825113,
+    "handle": "caneca-feliz-natal-com-ramos-de-pinheiro-e-fita-vermelha-325ml",
+    "imagens": 19,
+    "variacoes": 56,
+    "variacoes_vinculadas": 56,
+    "published": false
+  },
+  {
+    "op": "create_product",
+    "ref": "a12 caneca-feliz-natal-com-bolas-de-natal-vermelhas-e-pinheiro",
+    "ok": true,
+    "product_id": 381825405,
+    "handle": "caneca-feliz-natal-com-bolas-de-natal-vermelhas-e-pinheiro-325ml",
+    "imagens": 19,
+    "variacoes": 56,
+    "variacoes_vinculadas": 56,
+    "published": false
+  }
+]
