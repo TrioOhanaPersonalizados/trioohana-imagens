@@ -1,0 +1,560 @@
+[
+  {
+    "op": "update",
+    "ref": "381945562 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-meu-pet-minha-alegria-weimaraner-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381945562 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-meu-pet-minha-alegria-weimaraner-branca-sem-embalagem",
+        "image_id": 1322879552
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381945669 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-a-vida-e-melhor-com-cachorro-pinscher-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381945669 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-a-vida-e-melhor-com-cachorro-pinscher-branca-sem-embalagem",
+        "image_id": 1322880328
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381945752 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-meu-pet-manda-em-mim-yorkshire-com-laco-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381945752 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-meu-pet-manda-em-mim-yorkshire-com-laco-branca-sem-embalagem",
+        "image_id": 1322881173
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381945830 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-o-amor-mora-aqui-pastor-alemao-com-laco-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381945830 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-o-amor-mora-aqui-pastor-alemao-com-laco-branca-sem-embalagem",
+        "image_id": 1322881998
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381945911 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-felicidade-tem-focinho-boxer-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381945911 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-felicidade-tem-focinho-boxer-branca-sem-embalagem",
+        "image_id": 1322882809
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381945989 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-meu-melhor-amigo-tem-patas-jack-russell-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381945989 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-meu-melhor-amigo-tem-patas-jack-russell-branca-sem-embalagem",
+        "image_id": 1322883657
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381946063 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-quem-tem-um-pet-tem-tudo-pug-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381946063 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-quem-tem-um-pet-tem-tudo-pug-branca-sem-embalagem",
+        "image_id": 1322884525
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381946165 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-quem-ama-cachorro-compreende-schnauzer-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381946165 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-quem-ama-cachorro-compreende-schnauzer-branca-sem-embalagem",
+        "image_id": 1322885383
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381946256 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-tudo-fica-melhor-com-um-pet-por-perto-basset-hound-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381946256 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-tudo-fica-melhor-com-um-pet-por-perto-basset-hound-branca-sem-embalagem",
+        "image_id": 1322886276
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381946337 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-amor-que-mia-gatinho-com-brinquedos-e-petiscos-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381946337 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-amor-que-mia-gatinho-com-brinquedos-e-petiscos-branca-sem-embalagem",
+        "image_id": 1322887170
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381946443 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-amor-que-mia-gatinho-laranja-em-aquarela-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381946443 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-amor-que-mia-gatinho-laranja-em-aquarela-branca-sem-embalagem",
+        "image_id": 1322888125
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381946525 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-gateira-com-amor-gato-tigrado-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381946525 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-gateira-com-amor-gato-tigrado-branca-sem-embalagem",
+        "image_id": 1322889086
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381946615 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-abencoada-por-um-gato-persa-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381946615 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-abencoada-por-um-gato-persa-branca-sem-embalagem",
+        "image_id": 1322889996
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381946704 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-meu-coracao-mia-gato-devon-rex-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381946704 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-meu-coracao-mia-gato-devon-rex-branca-sem-embalagem",
+        "image_id": 1322890957
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381946850 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-tudo-que-preciso-e-amor-e-gato-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381946850 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-tudo-que-preciso-e-amor-e-gato-branca-sem-embalagem",
+        "image_id": 1322891844
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381946975 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-a-casa-e-do-gato-eu-so-pago-as-contas-ragdoll-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381946975 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-a-casa-e-do-gato-eu-so-pago-as-contas-ragdoll-branca-sem-embalagem",
+        "image_id": 1322892833
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381947076 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-aqui-mora-muito-amor-e-um-pet-mimado-gato-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381947076 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-aqui-mora-muito-amor-e-um-pet-mimado-gato-branca-sem-embalagem",
+        "image_id": 1322893843
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381947195 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-sou-oficialmente-controlado-por-um-animal-de-estimacao-rottweiler-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381947195 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-sou-oficialmente-controlado-por-um-animal-de-estimacao-rottweiler-branca-sem-embalagem",
+        "image_id": 1322894816
+      }
+    }
+  }
+]
