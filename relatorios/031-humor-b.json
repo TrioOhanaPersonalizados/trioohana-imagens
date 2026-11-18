@@ -1,0 +1,188 @@
+[
+  {
+    "op": "update",
+    "ref": "381975150 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-pomba-nao-estou-atrasada-estou-criando-expectativa-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381975150 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-pomba-nao-estou-atrasada-estou-criando-expectativa-branca-sem-embalagem",
+        "image_id": 1322940923
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381975839 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-professora-vai-cair-na-prova-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381975839 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-professora-vai-cair-na-prova-branca-sem-embalagem",
+        "image_id": 1322942192
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381976318 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-professora-vale-nota-a-frase-que-move-a-educacao-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381976318 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-professora-vale-nota-a-frase-que-move-a-educacao-branca-sem-embalagem",
+        "image_id": 1322943517
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381976971 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-professora-era-pra-copiar-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381976971 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-professora-era-pra-copiar-branca-sem-embalagem",
+        "image_id": 1322944972
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381977481 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-professora-lagrimas-dos-meus-alunos-mentirinha-e-cafe-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381977481 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-professora-lagrimas-dos-meus-alunos-mentirinha-e-cafe-branca-sem-embalagem",
+        "image_id": 1322946172
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381978171 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-professora-avaliacao-surpresa-surpresa-e-eu-ainda-ter-energia-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381978171 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-professora-avaliacao-surpresa-surpresa-e-eu-ainda-ter-energia-branca-sem-embalagem",
+        "image_id": 1322947262
+      }
+    }
+  }
+]
