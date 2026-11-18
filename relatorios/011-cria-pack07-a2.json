@@ -1,0 +1,13 @@
+[
+  {
+    "op": "create_product",
+    "ref": "a2 caneca-de-natal-que-o-natal-renove-a-sua-fe-e-a-sua-esperanca-com-papai-noel",
+    "ok": true,
+    "product_id": 381822672,
+    "handle": "caneca-de-natal-que-o-natal-renove-a-sua-fe-e-a-sua-esperanca-com-papai-noel-325ml",
+    "imagens": 19,
+    "variacoes": 56,
+    "variacoes_vinculadas": 56,
+    "published": false
+  }
+]
