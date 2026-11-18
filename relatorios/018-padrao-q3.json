@@ -1,0 +1,18 @@
+[
+  {
+    "op": "padrao_variantes",
+    "ref": "q3",
+    "ok": true,
+    "variacoes": 56,
+    "exemplo": {
+      "cost": "13.00",
+      "weight": "0.200",
+      "width": "10.00",
+      "mpn": "3000",
+      "age_group": "adult",
+      "gender": "unisex",
+      "sku": "caneca-feliz-natal-querida-amiga-com-foto-branca-sem-embalagem",
+      "image_id": 1322444325
+    }
+  }
+]
