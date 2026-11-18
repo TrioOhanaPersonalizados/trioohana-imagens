@@ -1,0 +1,188 @@
+[
+  {
+    "op": "update",
+    "ref": "381978787 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-professora-cafe-primeiro-educacao-depois-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381978787 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-professora-cafe-primeiro-educacao-depois-branca-sem-embalagem",
+        "image_id": 1322952935
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381979145 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-professora-minha-materia-favorita-e-o-intervalo-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381979145 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-professora-minha-materia-favorita-e-o-intervalo-branca-sem-embalagem",
+        "image_id": 1322954093
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381979456 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-professora-minha-paciencia-tem-chamada-e-hoje-faltou-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381979456 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-professora-minha-paciencia-tem-chamada-e-hoje-faltou-branca-sem-embalagem",
+        "image_id": 1322955431
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381979915 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-hoje-ninguem-testa-a-professora-amem-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381979915 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-hoje-ninguem-testa-a-professora-amem-branca-sem-embalagem",
+        "image_id": 1322956563
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381980271 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-respira-voce-e-professora-voce-nao-pode-fugir-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381980271 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-respira-voce-e-professora-voce-nao-pode-fugir-branca-sem-embalagem",
+        "image_id": 1322957931
+      }
+    }
+  },
+  {
+    "op": "update",
+    "ref": "381980596 textos",
+    "ok": true,
+    "handle": {
+      "pt": "caneca-professora-meu-talento-e-repetir-sem-parecer-que-ja-repeti-14-vezes-325ml"
+    },
+    "published": true,
+    "variacoes_atualizadas": 0
+  },
+  {
+    "op": "replace_images",
+    "ref": "381980596 fotos",
+    "ok": true,
+    "novas": 19,
+    "apagadas": 0,
+    "variacoes_vinculadas": 56,
+    "padrao": {
+      "variacoes": 56,
+      "exemplo": {
+        "cost": "13.00",
+        "weight": "0.200",
+        "width": "10.00",
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "sku": "caneca-professora-meu-talento-e-repetir-sem-parecer-que-ja-repeti-14-vezes-branca-sem-embalagem",
+        "image_id": 1322959039
+      }
+    }
+  }
+]
