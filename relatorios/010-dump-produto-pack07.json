@@ -1,0 +1,334 @@
+[
+  {
+    "op": "dump",
+    "ref": "produto 1 pack07",
+    "ok": true,
+    "chaves_produto": [
+      "attributes",
+      "brand",
+      "canonical_url",
+      "categories",
+      "created_at",
+      "description",
+      "free_shipping",
+      "handle",
+      "has_stock",
+      "id",
+      "images",
+      "invalid_at",
+      "is_kit",
+      "name",
+      "published",
+      "requires_shipping",
+      "seo_description",
+      "seo_title",
+      "tags",
+      "updated_at",
+      "variants",
+      "video_url",
+      "videos",
+      "visibility"
+    ],
+    "handle": {
+      "pt": "caneca-de-natal-voce-e-um-presente-de-deus-na-minha-vida-com-lacos-vermelhos-325ml"
+    },
+    "variantes_exemplo": [
+      {
+        "id": 1641462111,
+        "image_id": 1322276402,
+        "product_id": 381803066,
+        "position": 1,
+        "price": "49.90",
+        "price_without_taxes": null,
+        "compare_at_price": "49.90",
+        "promotional_price": null,
+        "stock_management": false,
+        "stock": null,
+        "weight": "0.200",
+        "width": "10.00",
+        "height": "10.00",
+        "depth": "10.00",
+        "sku": "caneca-de-natal-voce-e-um-presente-de-deus-na-minha-vida-com-lacos-vermelhos-branca-sem-embalagem",
+        "values": [
+          {
+            "pt": "Branca"
+          },
+          {
+            "pt": "Sem Embalagem"
+          }
+        ],
+        "barcode": null,
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "created_at": "2026-11-17T23:45:29+0000",
+        "updated_at": "2026-11-17T23:57:38+0000",
+        "cost": "13.00",
+        "visible": true,
+        "inventory_levels": [
+          {
+            "id": 1273754952,
+            "variant_id": 1641462111,
+            "location_id": "01JXNKY326RQSSWA6EV998WRYQ",
+            "stock": null
+          }
+        ]
+      },
+      {
+        "id": 1641462113,
+        "image_id": 1322276402,
+        "product_id": 381803066,
+        "position": 2,
+        "price": "54.90",
+        "price_without_taxes": null,
+        "compare_at_price": "54.90",
+        "promotional_price": null,
+        "stock_management": false,
+        "stock": null,
+        "weight": "0.200",
+        "width": "10.00",
+        "height": "10.00",
+        "depth": "10.00",
+        "sku": "caneca-de-natal-voce-e-um-presente-de-deus-na-minha-vida-com-lacos-vermelhos-branca-hoje-e-o-seu-dia",
+        "values": [
+          {
+            "pt": "Branca"
+          },
+          {
+            "pt": "Hoje é o Seu Dia"
+          }
+        ],
+        "barcode": null,
+        "mpn": "3000",
+        "age_group": "adult",
+        "gender": "unisex",
+        "created_at": "2026-11-17T23:45:29+0000",
+        "updated_at": "2026-11-17T23:57:38+0000",
+        "cost": "13.00",
+        "visible": true,
+        "inventory_levels": [
+          {
+            "id": 1273754954,
+            "variant_id": 1641462113,
+            "location_id": "01JXNKY326RQSSWA6EV998WRYQ",
+            "stock": null
+          }
+        ]
+      }
+    ],
+    "imagem_exemplo": [
+      {
+        "id": 1322276315,
+        "product_id": 381803066,
+        "src": "https://dcdn-us.mitiendanube.com/stores/006/361/192/products/01-caneca-de-natal-voce-e-um-presente-de-deus-na-minha-vida-com-lacos-vermelhos-principal-vermelho-276c4da7e5109eaef717949591420022-1024-1024.webp",
+        "position": 1,
+        "alt": {
+          "pt": "Caneca de Natal Você é um Presente de Deus na Minha Vida com alça e interior vermelho, vista dos dois lados, e arte completa com laços e listras"
+        },
+        "height": 3750,
+        "width": 3750,
+        "thumbnails_generated": 2,
+        "created_at": "2026-11-17T23:45:43+0000",
+        "updated_at": "2026-11-17T23:45:53+0000",
+        "store_media_uuid": null
+      }
+    ],
+    "outros": {
+      "id": 381803066,
+      "name": {
+        "pt": "Caneca de Natal Você é um Presente de Deus na Minha Vida com Laços Vermelhos 325ml"
+      },
+      "handle": {
+        "pt": "caneca-de-natal-voce-e-um-presente-de-deus-na-minha-vida-com-lacos-vermelhos-325ml"
+      },
+      "attributes": [
+        {
+          "pt": "Cor da Caneca"
+        },
+        {
+          "pt": "Embalagem para Presente"
+        }
+      ],
+      "published": true,
+      "free_shipping": false,
+      "requires_shipping": true,
+      "canonical_url": "https://trioohana.com.br/produtos/caneca-de-natal-voce-e-um-presente-de-deus-na-minha-vida-com-lacos-vermelhos-325ml/",
+      "video_url": null,
+      "seo_title": {
+        "pt": "Caneca de Natal Presente de Deus na Minha Vida 325ml | Trio Ohana"
+      },
+      "seo_description": {
+        "pt": "Caneca de Natal com a frase Você é um Presente de Deus na Minha Vida e laços vermelhos. Personalize com nome ou foto e aprove a arte antes da produção."
+      },
+      "brand": "Trio Ohana",
+      "has_stock": true,
+      "is_kit": false,
+      "visibility": "visible",
+      "created_at": "2026-11-17T23:45:27+0000",
+      "updated_at": "2026-11-18T00:00:44+0000",
+      "invalid_at": null,
+      "tags": "amigo secreto, caneca 325ml, caneca crista, caneca de natal, caneca natalina, caneca religiosa, presente de deus, presente de natal, presente para amiga, trio ohana",
+      "videos": [],
+      "categories": [
+        {
+          "id": 42081740,
+          "name": {
+            "pt": "Canecas"
+          },
+          "description": {
+            "pt": "Descubra nossa categoria de canecas de 325ml personalizadas, com opções de todas as cores, artes prontas e também personalizáveis para você!"
+          },
+          "handle": {
+            "pt": "canecas-personalizadas"
+          },
+          "parent": null,
+          "subcategories": [
+            42081751,
+            42081752,
+            42081753,
+            42081754
+          ],
+          "seo_title": {
+            "pt": "Canecas Personalizadas | Trio Ohana"
+          },
+          "seo_description": {
+            "pt": "Encontre canecas personalizadas da Trio Ohana para presentear ou usar no dia a dia. Explore as estampas e veja as opções de cada modelo."
+          },
+          "google_shopping_category": "Casa e jardim > Produtos de cozinha e aparelhos de jantar > Utensílios para mesa > Utensílios para bebidas > Canecas",
+          "created_at": "2026-11-13T05:18:26+0000",
+          "updated_at": "2026-11-17T05:35:18+0000"
+        },
+        {
+          "id": 42081751,
+          "name": {
+            "pt": "Canecas de Cerâmica 325ml"
+          },
+          "description": {
+            "pt": ""
+          },
+          "handle": {
+            "pt": "canecas-de-ceramica-325ml"
+          },
+          "parent": 42081740,
+          "subcategories": [],
+          "seo_title": {
+            "pt": "Canecas de Cerâmica 325 ml | Trio Ohana"
+          },
+          "seo_description": {
+            "pt": "Escolha canecas de cerâmica de 325 ml da Trio Ohana. Veja as estampas e as opções de cor de alça e interior disponíveis em cada modelo."
+          },
+          "google_shopping_category": "",
+          "created_at": "2026-11-13T05:19:07+0000",
+          "updated_at": "2026-11-17T05:34:56+0000"
+        },
+        {
+          "id": 42081747,
+          "name": {
+            "pt": "Temas e Ocasiões"
+          },
+          "description": {
+            "pt": ""
+          },
+          "handle": {
+            "pt": "temas-e-ocasioes"
+          },
+          "parent": null,
+          "subcategories": [
+            42081768,
+            42081769,
+            42081770,
+            42081771,
+            42081772,
+            42081774,
+            42081775,
+            42081776,
+            42081777,
+            42081778,
+            42081779
+          ],
+          "seo_title": {
+            "pt": ""
+          },
+          "seo_description": {
+            "pt": ""
+          },
+          "google_shopping_category": "",
+          "created_at": "2026-11-13T05:18:52+0000",
+          "updated_at": "2026-11-17T05:34:56+0000"
+        },
+        {
+          "id": 42081771,
+          "name": {
+            "pt": "Fé e Religiosidade"
+          },
+          "description": {
+            "pt": ""
+          },
+          "handle": {
+            "pt": "fe-e-religiosidade"
+          },
+          "parent": 42081747,
+          "subcategories": [],
+          "seo_title": {
+            "pt": ""
+          },
+          "seo_description": {
+            "pt": ""
+          },
+          "google_shopping_category": "",
+          "created_at": "2026-11-13T05:20:24+0000",
+          "updated_at": "2026-11-17T05:34:57+0000"
+        },
+        {
+          "id": 42081750,
+          "name": {
+            "pt": "Campanhas"
+          },
+          "description": {
+            "pt": ""
+          },
+          "handle": {
+            "pt": "campanhas"
+          },
+          "parent": null,
+          "subcategories": [
+            42081793,
+            42081794
+          ],
+          "seo_title": {
+            "pt": ""
+          },
+          "seo_description": {
+            "pt": ""
+          },
+          "google_shopping_category": "",
+          "created_at": "2026-11-13T05:19:03+0000",
+          "updated_at": "2026-11-17T05:34:56+0000"
+        },
+        {
+          "id": 42081794,
+          "name": {
+            "pt": "Natal"
+          },
+          "description": {
+            "pt": ""
+          },
+          "handle": {
+            "pt": "natal"
+          },
+          "parent": 42081750,
+          "subcategories": [],
+          "seo_title": {
+            "pt": "Presentes Personalizados para Natal | Trio Ohana"
+          },
+          "seo_description": {
+            "pt": "Veja a seleção de canecas personalizadas da Trio Ohana para presentear no Natal, com opções de estampas, fotos e nomes."
+          },
+          "google_shopping_category": "",
+          "created_at": "2026-11-13T05:21:48+0000",
+          "updated_at": "2026-11-17T05:34:58+0000"
+        }
+      ]
+    }
+  }
+]
