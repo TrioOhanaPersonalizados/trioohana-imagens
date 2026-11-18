@@ -1,0 +1,13 @@
+[
+  {
+    "op": "create_product",
+    "ref": "a4 caneca-feliz-natal-querida-amiga-com-papai-noel-e-xadrez-verde",
+    "ok": true,
+    "product_id": 381826376,
+    "handle": "caneca-feliz-natal-querida-amiga-com-papai-noel-e-xadrez-verde-325ml",
+    "imagens": 19,
+    "variacoes": 56,
+    "variacoes_vinculadas": 56,
+    "published": false
+  }
+]
