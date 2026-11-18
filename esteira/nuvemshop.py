@@ -128,6 +128,29 @@ def op_create_product(it):
             "variacoes": len(check["variants"]), "variacoes_vinculadas": linked, "published": check["published"]}
 
 
+def op_dump(it):
+    """Grava o JSON completo de um produto (para conferir campos da API)."""
+    p = api("GET", f"/products/{it['product_id']}")
+    v = p["variants"][:2]
+    return {"ok": True, "chaves_produto": sorted(p.keys()), "handle": p.get("handle"),
+            "variantes_exemplo": v, "imagem_exemplo": p["images"][:1],
+            "outros": {k: p[k] for k in p if k not in ("variants", "images", "description")}}
+
+
+def op_update(it):
+    """PUT parcial em produto e, opcionalmente, nas variações (lista de {id, ...campos})."""
+    pid = it["product_id"]; res = {}
+    if it.get("product"):
+        r = api("PUT", f"/products/{pid}", it["product"]); res["handle"] = r.get("handle"); res["published"] = r.get("published")
+    n = 0
+    for v in it.get("variants", []):
+        vid = v.pop("id"); api("PUT", f"/products/{pid}/variants/{vid}", v); n += 1
+    res["variacoes_atualizadas"] = n
+    if it.get("echo_variant"):
+        res["variante"] = api("GET", f"/products/{pid}/variants/{it['echo_variant']}")
+    return {"ok": True, **res}
+
+
 def op_probe_alt(it):
     """Envia uma foto temporária em cada formato de alt, lê o que gravou e apaga."""
     pid = it["product_id"]; res = {}
@@ -153,7 +176,7 @@ def op_probe_alt(it):
     return {"ok": True, "resultado": res}
 
 
-OPS = {"probe_alt": op_probe_alt, "replace_images": op_replace_images, "check": op_check, "set_alts": op_set_alts, "link_variants": op_link_variants, "create_product": op_create_product}
+OPS = {"dump": op_dump, "update": op_update, "probe_alt": op_probe_alt, "replace_images": op_replace_images, "check": op_check, "set_alts": op_set_alts, "link_variants": op_link_variants, "create_product": op_create_product}
 
 
 def main(job_path):
